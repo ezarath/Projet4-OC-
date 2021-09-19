@@ -20,7 +20,7 @@ public class ReadSymptomsFromFile implements ISymptomReader {
 		ArrayList<String> namesOfSymptoms = new ArrayList<>();
 		
 		try {
-				BufferedReader reader = new BufferedReader (new FileReader("Project02Eclipse\\symptoms.txt"));
+				BufferedReader reader = new BufferedReader (new FileReader("symptoms.txt"));
 				String line = reader.readLine();
 				
 				
