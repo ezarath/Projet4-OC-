@@ -1,1 +1,2 @@
-Sample project for OpenClassroom's fundamentals of Java
+Projet 4 Openclassroom
+
